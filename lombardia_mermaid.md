@@ -32,14 +32,14 @@ graph TD
 
     A --> G[Footer]
 
-    G --> Contattaci
-    G --> Ufficio Stampa
-    G --> ✚ Lavora con noi
-    G --> Trasparenza
-    G --> Calendario Appuntamenti Regionale
-    G --> ✚ Sostienici
-    G --> ✚ Gestionale Gaia
-    G --> ✚ Gestionale “Per le persone”
-    G --> Link Utili
-    G --> ✚ Feed RSS
+    G --> G1[Contattaci]
+    G --> G2[Ufficio Stampa]
+    G --> G3[✚ Lavora con noi]
+    G --> G4[Trasparenza]
+    G --> G5[Calendario Appuntamenti Regionale]
+    G --> G6[✚ Sostienici]
+    G --> G7[✚ Gestionale Gaia]
+    G --> G8[✚ Gestionale “Per le persone”]
+    G --> G9[Link Utili]
+    G --> G10[✚ Feed RSS]
 ```
