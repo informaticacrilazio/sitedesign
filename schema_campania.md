@@ -23,3 +23,17 @@ graph TD
     A --> O[✚ Link Utili]
     A --> P[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Campania))
+    📞 Contattaci
+    📄 Trasparenza
+    ✚ Lavora con noi
+    ❤️ Sostienici
+    📑 Atti e Provvedimenti
+      → Provvedimenti 2024 Presidente Regionale CRI Campania
+    ⚙️ Gestionale Gaia
+    🔗 Link Utili
+    📢 Feed RSS
+```

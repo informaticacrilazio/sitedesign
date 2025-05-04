@@ -51,3 +51,45 @@ graph TD
     A --> R[✚ Link Utili]
     A --> S[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+Comitato Regionale Emilia-Romagna
+    ✚ Chi Siamo
+        ✚ L’Associazione
+        ✚ Storia e Principi
+        ✚ Statuto
+        ✚ Codice Etico
+        ✚ Riforma del Terzo Settore
+        ✚ Identità Visiva
+        ✚ Strategia 2018-2030
+        ✚ Politica Ambientale
+        ✚ Organizzazione
+        ✚ I Soci
+    ✚ Cosa Facciamo
+        ✚ Principi e Valori Umanitari
+        ✚ Tutela della Salute
+        ✚ Inclusione Sociale
+        ✚ Cooperazione Internazionale
+        ✚ Preparazione e Risposta ai Disastri
+        ✚ Cambiamenti Climatici
+        ✚ Migrazioni
+        ✚ Sisma Centro Italia
+        ✚ Per i Giovani
+        ✚ Formazione
+    ✚ Volontariato
+        ✚ Volontari
+        ✚ Corpo Infermiere Volontarie CRI
+        ✚ Corpo Militare Volontario CRI
+    ✚ I Nostri Comitati Territoriali
+    ✚ Dona
+    ✚ Numero Verde
+    Contattaci
+    ✚ Lavora con noi
+        ✚ Trasparenza Comitato Nazionale
+        Trasparenza Comitato Regionale
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

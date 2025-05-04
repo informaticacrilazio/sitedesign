@@ -58,3 +58,53 @@ graph TD
     A --> L[✚ Link Utili]
     A --> M[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Calabria))
+    Chi Siamo
+      L'Associazione
+      Storia e Principi
+      Statuto
+      Codice Etico
+      La Riforma del Terzo Settore
+      Identità Visiva
+      Strategia 2018-2030
+      Organizzazione
+      I Soci
+      Il CR Calabria
+      La Sede
+      I Comitati Territoriali
+    Cosa Facciamo
+      Principi e Valori Umanitari
+      Tutela della Salute
+      Inclusione Sociale
+      Cooperazione Internazionale
+      Preparazione e Risposta ai Disastri
+      Cambiamenti Climatici
+      Migrazioni
+      Per i Giovani
+      Formazione
+      Report Attività 2021
+        Report Attività 2020
+    Volontariato
+      I Volontari
+      Servizio Civile
+    ✚ Sostienici
+    ✚ Numero Verde
+    Comitato Trasparente
+      Verbali Assemblee Regionali Calabria
+      Elezioni e Atti Ufficio Elettorale Regionale
+      Provvedimenti del Presidente Regionale
+      Delibere Consiglio Direttivo Regionale
+      Provvedimenti del Segretario Regionale
+      Bandi e Gare
+      ✚ CRI Trasparente CN
+    ✚ Ricerca
+    Contattaci
+    ✚ Lavora con noi
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

@@ -32,3 +32,25 @@ graph TD
     A --> R[✚ Link Utili]
     A --> S[Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root(Comitato Regionale Basilicata)
+    Chi Siamo
+      Struttura Organizzativa CRI Basilicata
+      ✚ Cosa Facciamo
+    ✚ Diventa Volontario
+    ✚ Sostienici
+    Ricerca
+    Le nostre sedi
+    Comitato Trasparente
+    Contattaci
+    ✚ Trasparenza Comitato Nazionale
+    Comitato Trasparente1
+    ✚ Lavora con noi
+    Eventi e Comunicazione
+    Sostienici
+    ✚ Diventa volontario – Iscriviti su Gaia
+    ✚ Link Utili
+    Feed RSS
+```

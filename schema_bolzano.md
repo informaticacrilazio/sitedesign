@@ -26,3 +26,18 @@ graph TD
 
     A --> I[✚ Gestionale Gaia]
 ```
+
+```mermaid
+mindmap
+  root(Comitato Provinciale Bolzano – Alto Adige)
+    Chi Siamo
+      Struttura
+      Comitati Territoriali
+    ✚ Cosa Facciamo
+    Volontariato
+    Sostienici
+    Contattaci
+    Trasparenza
+    Elezioni 2024
+    ✚ Gestionale Gaia
+```
