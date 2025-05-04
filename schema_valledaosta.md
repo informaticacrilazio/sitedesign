@@ -37,7 +37,7 @@ graph TD
     
     A --> K[✚ Gestionale Gaia]
 
-    A --> L[✚ Gestionale "Per le persone"]
+    A --> L[✚ Gestionale ""Per le persone""]
     
     A --> M[✚ Comitato internazionale della Croce Rossa CICR]
 
