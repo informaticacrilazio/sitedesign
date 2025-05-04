@@ -1,5 +1,7 @@
 # Abruzzo Mermaid Diagram
 
+[Home](/struttura_sito.md)
+
 ```mermaid
 graph TD
     A[Comitato Regionale Abruzzo]
