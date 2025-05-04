@@ -15,3 +15,7 @@ Appunti sulla struttura del sito web del comitato regionale CRI Lazio
 - Creazione di un database centralizzato (INTRANET) con tutte le comunicazioni e normative aggiornate, come punto di riferimento uniforme per tutte le strutture territoriali.
 - Archivio fotografico INTRANET e Cloud
 - Promozione dell’alfabetizzazione informatica verso i volontari della regione, come strumento di inclusione digitale e potenziamento delle competenze interne.
+
+## Schema Hw
+
+![alt text](images/SOR_Infrastructure.drawio.png)
