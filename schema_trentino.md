@@ -1,5 +1,5 @@
 # Trentino Mermaid Diagram
-✚ 
+
 [Home](/struttura_sito.md)
 
 ```mermaid
@@ -23,24 +23,21 @@ graph TD
     C --> C7[Social Media ed Eventi]
     C --> C8[Infermiere Volontarie CRI Trentino]
 
-    A --> D[Volontariato]
+    A --> D[✚ Volontariato]
 
     A --> E[Dona Ora]
     E --> E1[CRI Magazine]
 
     A --> F[Contatti]
 
-    A --> G[Trasparenza]
-    G --> G1[Bilancio Sociale 2023]
-    G --> G2[Carta dei Servizi CRI]
+    A --> G[Ricerca]
 
-    A --> H[Elezioni 2024]
-
-    A --> I[Gestionale Gaia]
-
-    A --> J[Lavora con noi]
-
-    A --> K[Ufficio Stampa e Multimedia]
-
-    A --> L[Privacy]
+    A --> H[Ufficio Stampa e Multimedia]
+    A --> I[Sostienici]
+    A --> J[Trasparenza]
+    A --> K[Atti]
+    A --> L[Elezioni]
+    A --> M[Gestionale Gaia]
+    A --> N[Lavora con noi]
+    A --> O[Privacy]
 ```
