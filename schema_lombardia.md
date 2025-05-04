@@ -45,3 +45,40 @@ graph TD
     G --> G9[Link Utili]
     G --> G10[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Lombardia))
+    Chi Siamo
+      Consiglio Regionale
+      Staff Regionale
+      Ufficio Stampa
+    Cosa Facciamo
+      Tutela della Salute
+      Inclusione Sociale
+      Preparazione e Risposta ai Disastri
+      Principi e Valori
+      Giovani
+      Formazione
+      Comunicazione
+      Innovazione
+      Cooperazione Internazionale, Migrazioni
+      Resilienza e Adattamento
+    Volontariato
+      ✚ Volontari
+      ✚ Corpo Militare Volontario CRI
+      ✚ Corpo delle Infermiere Volontarie
+    ✚ Sostienici
+    Contatti
+    Footer
+      Contattaci
+      Ufficio Stampa
+      ✚ Lavora con noi
+      Trasparenza
+      Calendario Appuntamenti Regionale
+      ✚ Sostienici
+      ✚ Gestionale Gaia
+      ✚ Gestionale "Per le persone"
+      Link Utili
+      ✚ Feed RSS
+```

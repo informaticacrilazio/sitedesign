@@ -35,3 +35,24 @@ graph TD
 
     A --> N[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Umbria))
+    ✚ Chi Siamo
+      L’Associazione
+      Storia e Principi
+      Statuto
+    ✚ Cosa Facciamo
+    ✚ Volontariato
+    ✚ Sostienici
+    ✚ Numero Verde
+    Contatti
+    ✚ Lavora con noi
+    Trasparenza Comitato Regionale
+    Trasparenza Comitati Territoriali
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

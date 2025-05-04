@@ -41,3 +41,36 @@ graph TD
     A --> N[Lavora con noi]
     A --> O[Privacy]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Provinciale del Trentino))
+    Organizzazione
+      Consiglio Direttivo e Segretario Provinciale
+      Comitati Territoriali del Trentino
+      Storia della CRI in Trentino
+      I nostri Principi
+      Strategia CRI 2030
+    Attività
+      Tutela della Salute
+      Inclusione Sociale
+      Preparazione e Risposta ai Disastri
+      Principi, Valori e Cooperazione Internazionale
+      Giovani
+      Innovazione, Volontariato e Formazione
+      Social Media ed Eventi
+      Infermiere Volontarie CRI Trentino
+    ✚ Volontariato
+    Dona Ora
+      CRI Magazine
+    Contatti
+    Ricerca
+    Ufficio Stampa e Multimedia
+    Sostienici
+    Trasparenza
+    Atti
+    Elezioni
+    Gestionale Gaia
+    Lavora con noi
+    Privacy
+```

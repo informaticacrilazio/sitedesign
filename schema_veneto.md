@@ -22,3 +22,22 @@ graph TD
     A --> Q[✚ Link Utili]
     A --> R[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Veneto))
+    Struttura
+    Volontari
+    Trasparenza CRI Veneto
+    Sostienici
+    Contatti
+    Numero Verde
+    Contattaci
+    ✚ Lavora con noi
+    ✚ Trasparenza
+    Eventi e Comunicazione
+    Sostienici
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

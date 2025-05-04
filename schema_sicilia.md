@@ -49,3 +49,44 @@ graph TD
     A --> N[✚ Link Utili]
     A --> O[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Sicilia))
+    ✚ Chi Siamo
+      Codice Etico
+      Storia e Principi
+      Struttura Organizzativa
+      Presidenti CRI in Sicilia
+      Assemblea Regionale
+      ✚ I Comitati Territoriali
+    ✚ Cosa Facciamo
+      Tutela della Salute
+      Preparazione e Risposta ai Disastri
+      Inclusione Sociale
+      Principi e Valori
+      Migrazione
+      Formazione
+      Innovazione e Comunicazione
+      Servizio Civile Universale
+      Progetti
+      Collabora con noi
+    ✚ Volontariato
+    ✚ Sostienici
+    Comitato Trasparente
+      Verbali Assemblea Regionale Sicilia
+      Atti Ufficio Elettorale Regionale/Elezioni
+      Provvedimenti del Presidente Regionale
+      Provvedimenti del Segretario Regionale
+      Delibere Consiglio Direttivo Regionale
+      Sezione Trasparenza Comitati Territoriali
+    ✚ Numero Verde
+    Contattaci
+    ✚ Lavora con noi
+    Trasparenza
+    Eventi e Comunicazione
+    Sostienici
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

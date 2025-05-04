@@ -42,3 +42,28 @@ graph TD
 
     A --> N[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Sardegna))
+    Comitati
+      Cagliari
+      Oristano
+      Bosa
+      Nuoro
+      Olbia
+      Sassari
+    ✚ Chi Siamo
+    ✚ Cosa Facciamo
+    ✚ Volontariato
+    ✚ Sostienici
+    ✚ Numero Verde
+    Contattaci
+    ✚ Lavora con noi
+    Trasparenza
+    Trasparenza Comitati Territoriali
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

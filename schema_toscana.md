@@ -33,3 +33,29 @@ graph TD
     A --> U[Elezioni Comitati Territoriali 2024]
     A --> V[Elezioni Comitato Regionale Toscana 2024]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Toscana))
+    ✚ Chi Siamo
+    ✚ Cosa Facciamo
+    ✚ Volontariato
+    Presidio Anna Torrigiani
+    ✚ Numero Verde
+    ✚ Sostienici
+    Ricerca
+    Organizzazione
+    Attività
+    Servizio Civile Universale
+    Servizio Civile Regionale
+    Ufficio Storico Regionale
+    Ufficio Stampa e Comunicazione
+    Contattaci
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+    Lavora con noi
+    ✚ RedCloud
+    Elezioni Comitati Territoriali 2024
+    Elezioni Comitato Regionale Toscana 2024
+```

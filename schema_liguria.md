@@ -40,3 +40,38 @@ graph TD
     A --> L[✚ Link Utili]
     A --> M[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Liguria))
+    Chi Siamo
+      La Struttura Regionale
+      ✚ L'Associazione
+      ✚ Storia e Principi
+      ✚ Statuto
+      ✚ Codice Etico
+      ✚ Riforma del Terzo Settore
+      ✚ Identità Visiva
+      ✚ Strategia 2018–2030
+      ✚ Organizzazione
+      ✚ I Soci
+    ✚ Cosa Facciamo
+      Principi e Valori Umanitari
+      Tutela della Salute
+      Inclusione Sociale
+      Emergenze
+      Giovani CRI
+      Volontariato, Innovazione e Comunicazione
+      Formazione
+    ✚ Volontariato
+      Volontari
+      Servizio Civile Universale – Bando 2023
+    ✚ Sostienici
+    ✚ Numero Verde
+    Lavora con noi
+    Trasparenza
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

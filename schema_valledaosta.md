@@ -45,3 +45,34 @@ graph TD
 
     A --> O[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Valle d'Aosta))
+    Chi Siamo
+      L’Associazione
+      Storia e Principi
+      Organizzazione
+    Cosa Facciamo
+      Tutela della salute
+      Inclusione sociale
+      Preparazione e risposta ai disastri
+      Principi e Valori Umanitari
+      Per i giovani
+      Innovazione e Comunicazione
+      Formazione
+    Volontariato
+      Volontari
+      Corpo Infermiere Volontarie CRI
+      Corpo Militare Volontario CRI
+    Contattaci
+    ✚ Lavora con noi
+    Comitato Trasparente
+    ✚ CRI Trasparente
+    Sostienici
+    ✚ Gestionale Gaia
+    ✚ Gestionale ""Per le persone""
+    ✚ Comitato internazionale della Croce Rossa CICR
+    ✚ Federazione Internazionale delle Società di Croce Rossa e Mezzaluna Rossa IFRC
+    ✚ Feed RSS
+```

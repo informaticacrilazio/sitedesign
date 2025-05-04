@@ -32,3 +32,28 @@ graph TD
     A --> O[✚ Link Utili]
     A --> P[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Piemonte))
+    ✚ Chi Siamo
+      ✚ La Croce Rossa Italiana
+      Consiglio Direttivo Regionale
+      Delegati e Referenti Regionali
+    ✚ Cosa Facciamo
+      Progetto 8-13 in CRI Piemonte
+    ✚ Volontariato
+      Servizio Civile in CRI Piemonte
+    5×1000
+    Numero Verde
+      ✚ CRI per le Persone
+    Contattaci
+    Documentazione scaricabile
+    ✚ Lavora con noi
+    Comitato trasparente
+    ✚ CRI trasparente
+    Sostienici
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

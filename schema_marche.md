@@ -60,3 +60,57 @@ graph TD
     A --> R[✚ Link Utili]
     A --> S[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Marche))
+    Chi Siamo
+      ✚ L'Associazione
+      ✚ Storia e Principi
+      ✚ Statuto
+      ✚ Codice Etico
+      ✚ Riforma del Terzo Settore
+      ✚ Identità Visiva
+      ✚ Strategia 2018–2030
+      ✚ Organizzazione
+      ✚ I Soci
+      ✚ I Volontari
+      ✚ Corpo Militare Volontario CRI
+      ✚ Corpo Infermiere Volontarie CRI
+    Cosa fa Croce Rossa
+      ✚ Principi e Valori Umanitari
+      ✚ Tutela della Salute
+      ✚ Inclusione Sociale
+      ✚ Cooperazione Internazionale
+      ✚ Preparazione e Risposta ai Disastri
+      ✚ Cambiamenti Climatici
+      ✚ Migrazioni
+      ✚ Sisma Centro Italia
+      ✚ Per i Giovani
+      ✚ Formazione
+    Il Comitato Regionale Marche
+      Struttura Organizzativa CRI Regionale Marche
+      ✚ I Comitati CRI Regionale Marche
+      Il Centro Formativo Regionale
+        I nostri Corsi
+      Notizie CRI Regionale Marche
+      Eventi e Comunicazioni CRI Regionale Marche
+    Soccorsi Speciali
+      Salvataggio in Acqua OPSA – CRI MARCHE
+      Soccorso Piste da Sci e Terreno Innevato SPS CRI MARCHE
+      Soccorsi con Mezzi e Tecniche Speciali SMTS – CRI MARCHE
+      Soccorso con Supporto di Unità Cinofile UC – CRI MARCHE
+    Regolamenti
+    Comitato Trasparente
+    Contatti
+    ✚ Lavora con noi
+    Eventi e Comunicazioni
+    ✚ Sostienici
+    Trasparenza - Comitati Territoriali
+    Privacy
+    Election Day: 19 maggio 2024
+    Elezioni Regionali 2024
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

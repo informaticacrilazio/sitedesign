@@ -42,3 +42,34 @@ graph TD
     A --> M[✚ Link Utili]
     A --> N[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Lazio))
+    ✚ Chi Siamo
+      Struttura Organizzativa
+    ✚ Cosa Facciamo
+      Donazione Sangue
+      Formazione
+      Servizio Civile Universale
+        Bando Servizio Civile 2021
+        Bando Servizio Civile 2022
+        Bando Servizio Civile 2023
+        Bando Servizio Civile 2024
+      Motorizzazione Regionale
+    ✚ Volontariato
+    ✚ Sostienici
+    ✚ Numero Verde
+    Contatti
+    ✚ Lavora con noi
+    ✚ Trasparenza Comitato Regionale
+    ✚ Trasparenza Comitati Territoriali
+    Elezioni Comitato Regionale Lazio 2023
+    Elezioni Comitati Territoriali CRI Lazio
+      Elezioni Comitati Territoriali CRI Lazio Maggio 2024
+      Elezioni Comitati Territoriali CRI Lazio Novembre 2024
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

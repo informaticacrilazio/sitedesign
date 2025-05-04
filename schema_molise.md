@@ -37,3 +37,33 @@ graph TD
     A --> M[✚ Link Utili]
     A --> N[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Molise))
+    Chi Siamo
+      Organigramma & Struttura organizzativa
+    Cosa Facciamo
+      Progetti
+      CRI Giovani
+      Sala Operativa Regionale
+      Servizio Civile Universale
+    Volontariato in Molise
+      Area Sociale
+      Sportello di Ascolto e Supporto alle persone
+      Officine della Salute Molise
+    Formazione
+      Team Formazione
+      Scuola di Formazione Regionale
+      Corsi di Formazione attivati dal Comitato Regionale
+      Formazione all'esterno
+    ✚ Sostienici
+    ✚ Numero Verde
+    Contattaci
+    ✚ Lavora con noi
+    Trasparenza Comitato Regionale Molise
+    ✚ Comitato Nazionale CRI
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

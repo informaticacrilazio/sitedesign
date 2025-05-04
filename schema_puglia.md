@@ -26,3 +26,22 @@ graph TD
     A --> L[✚ Link Utili]
     A --> M[✚ Feed RSS]
 ```
+
+```mermaid
+mindmap
+  root((✚ Comitato Regionale Puglia))
+    Chi Siamo
+      La Struttura Regionale
+      ✚ Elezioni 2020
+    ✚ Cosa Facciamo
+    ✚ Volontariato
+    ✚ Sostienici
+    ✚ Numero Verde
+    Contattaci
+    ✚ Lavora con noi
+    Comitato Trasparente
+    Eventi e Comunicazione
+    ✚ Gestionale Gaia
+    ✚ Link Utili
+    ✚ Feed RSS
+```

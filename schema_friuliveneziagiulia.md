@@ -31,3 +31,29 @@ graph TD
     A --> F[✚ Sostienici]
     A --> G[Comitato Trasparente]
 ```
+
+```mermaid
+mindmap
+  root((Comitato Regionale Friuli Venezia Giulia))
+    Chi Siamo
+      Consiglio Direttivo
+      Corpi Ausiliari delle FFAA
+      Ufficio Stampa
+      Staff Regionale
+    Cosa Facciamo
+      Salute
+      Inclusione Sociale
+      Preparazione e Risposta ai Disastri
+      Principi e Valori Umanitari
+      Giovani
+      Formazione
+    Centro Formazione CRI FVG
+      Calendario Formativo 2024
+      Calendario Formativo 2023
+      Calendario Formativo 2022
+      Calendario Formativo 2021
+      Calendario Formativo 2020
+    Volontariato
+    ✚ Sostienici
+    Comitato Trasparente
+```
