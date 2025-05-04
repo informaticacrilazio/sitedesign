@@ -18,4 +18,4 @@ Appunti sulla struttura del sito web del comitato regionale CRI Lazio
 
 ## Schema Hw
 
-![alt text](images/SOR_Infrastructure.drawio.png)
+![alt text](images/CRI_Lazio_Infrastructure.drawio.png)
