@@ -4,6 +4,8 @@
 
 [Struttura del sito](struttura_sito.md)
 
+[Accessibilità CRI Lazio](accessibilità.md)
+
 - [x] Todo: Analizzare l'accessibilità (non vedenti, ipovedenti, ...)
 - [x] Todo: Verificare cosa è stato fatto e promesso nel 2021 sull'accessibilità
 - [ ] Todo: Condividere SiteMap
