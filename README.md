@@ -2,8 +2,8 @@
 
 Appunti sulla struttura del sito web del comitato regionale CRI Lazio
 
-- [ ] Todo: Analizzare l'accessibilità (non vedenti, ipovedenti, ...)
-- [ ] Todo: Verificare cosa è stato fatto e promesso nel 2021 sull'accessibilità
+- [x] Todo: Analizzare l'accessibilità (non vedenti, ipovedenti, ...)
+- [x] Todo: Verificare cosa è stato fatto e promesso nel 2021 sull'accessibilità
 - [ ] Todo: Installazione TrueNAS, Immich, Copia su disco locale, Copia su Cloud, Selezione su Web
 - [ ] Todo: Condividere SiteMap
 - [ ] Todo: Area o meglio sito per servizi a comitati e volontari
