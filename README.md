@@ -25,6 +25,8 @@
 
 - [ ] Todo: Installazione TrueNAS, Immich, Copia su disco locale, Copia su Cloud, Selezione su Web
 ![alt text](images/CRI_Lazio_Infrastructure.drawio.png)
+- [ ] Todo: NextCloud per la produttività
+- [ ] Todo: Suite Infomaniak
 
 ## Promozione dell’alfabetizzazione informatica verso i volontari della regione, come strumento di inclusione digitale e potenziamento delle competenze interne
 
