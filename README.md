@@ -31,3 +31,5 @@
 ## Promozione dell’alfabetizzazione informatica verso i volontari della regione, come strumento di inclusione digitale e potenziamento delle competenze interne
 
 - [ ] Todo: Strutturare contenuti, formatori e corso
+
+[Appunti](CorsoCRI)
