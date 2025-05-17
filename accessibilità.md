@@ -66,7 +66,7 @@ Analizzando il sito [**https://www.cri.it/lazio**](https://www.cri.it/lazio) uti
 
 ---
 
-### **Test con Screen Reader (NVDA)**ù
+### **Test con Screen Reader (NVDA)**
 
 - **Navigazione da tastiera**: Funziona, ma alcuni elementi interattivi (es. menu a tendina) non sono facilmente gestibili.  
 - **Lettura del contenuto**: Lo screen reader interpreta correttamente il testo, ma salta alcune immagini per mancanza di `alt`.  
