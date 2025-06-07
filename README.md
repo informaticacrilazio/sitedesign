@@ -8,6 +8,7 @@
 
 - [x] Todo: Analizzare l'accessibilità (non vedenti, ipovedenti, ...)
 - [x] Todo: Verificare cosa è stato fatto e promesso nel 2021 sull'accessibilità
+- [ ] Referente comunicazione
 - [ ] Todo: Condividere SiteMap
 - [ ] Todo: Condividere il SiteMap desiderato finale
 - [ ] Todo: Decidere se serve una nuova sezione operativa per chi è già volontario
@@ -33,3 +34,30 @@
 - [ ] Todo: Strutturare contenuti, formatori e corso
 
 [Appunti](CorsoCRI)
+
+## Domande Luca
+
+- [ ] Referente GAIA per single sign on e dati in real time
+- [ ] Referente informatico Ramazzini
+- [ ] Budget per hardware e spazio cloud
+- [ ] Sito Web da rivedere con la comunicazione Eleonora Cipolletta
+- [ ] Strumento per condividere i progetti con i vari responsabili
+- [ ] Lista della spesa condivisa con tutti i responsabili e elenco partecipanti al gruppo per rubrica condivisa
+- [ ] Sondaggio per la parte territoriale
+- [ ] Area condivisa per mettere risorse (file Excel)
+
+## Responsabili dei Settori
+
+| Settore | Responsabile | Mail | Cellulare WhatsApp |
+|---------|--------------|------|--------------------|
+| Sviluppo organizzativo, accreditamenti, certificazioni| CERRONI, Daniele| @lazio.cri.it| 3472181515 |
+| Accordi, Convenzioni, Partnership, Donors e fundraising| BAFERA, Giacoma| @lazio.cri.it| 3286191166 |
+| Comunicazione integrata, ufficio stampa| CIPOLLETTA, Eleonora| @lazio.cri.it| 3938852904 |
+| Web Content Strategist| LANDINI SALCINO, Stefano| informatica@crilazio.org| 3286781856 |
+| Soci, Volontariato, Eventi| MAMMANA, Delia Maria Luisa| @lazio.cri.it| 3476134464 |
+| Innovazione| IONTA, Vittoria| vittoria.ionta@lazio.cri.it| 3489065650 |
+
+2 settimane per una prima bozza strutturale
+
+LUPO, Leonardo Maria
+Hinna, Luca
